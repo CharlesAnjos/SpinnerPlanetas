@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SpinnerPlanetas</string>
+    <string name="mercurio_texto">Texto sobre Mercúrio</string>
+    <string name="venus_texto">Texto sobre Vênus</string>
+    <string name="terra_texto">Texto sobre Terra</string>
+    <string name="marte_texto">Texto sobre Marte</string>
+    <string name="jupiter_texto">Texto sobre Júpiter</string>
+    <string name="saturno_texto">Texto sobre Saturno</string>
+    <string name="urano_texto">Texto sobre Urano</string>
+    <string name="netuno_texto">Texto sobre Netuno</string>
+    <string name="plutao_texto">Texto sobre Plutão</string>
 </resources>
