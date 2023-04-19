@@ -1,0 +1,1 @@
+Aplicativo usando spinner para carregar informações sobre planetas, sob tutoria do prof. Fagno para a matéria de PDMI 
